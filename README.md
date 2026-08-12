@@ -10,7 +10,6 @@ The ZIP archive contains:
 - RocketPy nominal flight simulation
 - Motor thrust curve (`.eng`)
 - Drag coefficient data for the Garuda and payload
-- Power-on and power-off body drag data
 
 ## Simulation Conditions
 
